@@ -2,28 +2,25 @@
 
 ---
 
-### Category Name 1 
+### Public Policy Analysis 
 
-[Project 1 Title](file:///Users/yingxue/Desktop/22Fall/MUSA%205080/Final%20project/Airbnb/FINAL_PROJECT_airbnb-copy.html)
+[Airbnb Housing Prediction](file:///Users/yingxue/Desktop/22Fall/MUSA%205080/Final%20project/Airbnb/FINAL_PROJECT_airbnb-copy.html)
 <img src="images/Airbnb3.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Bikeshare “Re-balance” Modelling](file:///Users/yingxue/Desktop/22Fall/MUSA%205080/Bike%20share/Bike-share-YingxueOu.html)
+<img src="images/Bikeshare.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[People Based ML - Targeting A Housing Subsidy](file:///Users/yingxue/Desktop/22Fall/MUSA%205080/HW6/Targeting%20A%20Housing%20Subsidy_YingxueOu.html)
+<img src="images/subsidy.png?raw=true"/>
 
 ---
 
-### Category Name 2
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+### Geospatial Analysis
+
+- [Stadiums in City Doha: Changes brought about by World Cup construction in Doha](https://storymaps.arcgis.com/stories/58daca1079834fbe9a34898693811a42)
 
 ---
 
