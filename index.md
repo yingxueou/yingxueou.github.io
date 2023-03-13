@@ -4,8 +4,8 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 1 Title](file:///Users/yingxue/Desktop/22Fall/MUSA%205080/Final%20project/Airbnb/FINAL_PROJECT_airbnb-copy.html)
+<img src="images/Airbnb3.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
