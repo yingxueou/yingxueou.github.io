@@ -4,15 +4,15 @@
 
 ### Public Policy Analysis 
 
-[Airbnb Housing Prediction](file:///Users/yingxue/Desktop/22Fall/MUSA%205080/Final%20project/Airbnb/FINAL_PROJECT_airbnb-copy.html)
+[Airbnb Housing Prediction](html/FINAL_PROJECT_airbnb-copy.html)
 <img src="images/Airbnb3.png?raw=true"/>
 
 ---
-[Bikeshare “Re-balance” Modelling](file:///Users/yingxue/Desktop/22Fall/MUSA%205080/Bike%20share/Bike-share-YingxueOu.html)
+[Bikeshare “Re-balance” Modelling](html/Bike-share-YingxueOu.html)
 <img src="images/Bikeshare.png?raw=true"/>
 
 ---
-[People Based ML - Targeting A Housing Subsidy](file:///Users/yingxue/Desktop/22Fall/MUSA%205080/HW6/Targeting%20A%20Housing%20Subsidy_YingxueOu.html)
+[People Based ML - Targeting A Housing Subsidy](html/Targeting%20A%20Housing%20Subsidy_YingxueOu.html)
 <img src="images/subsidy.png?raw=true"/>
 
 ---
