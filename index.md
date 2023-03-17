@@ -19,7 +19,7 @@
 
 
 ### Geospatial Analysis
-- [Geospatial Risk Prediction: Crime in Chicago](html/Geospatial Risk Prediction.html)
+- [Geospatial Risk Prediction: Crime in Chicago](html/Geospatial_Risk_Prediction.html)
 - [Stadiums in City Doha: Changes brought about by World Cup construction in Doha](https://storymaps.arcgis.com/stories/58daca1079834fbe9a34898693811a42)
 
 ---
